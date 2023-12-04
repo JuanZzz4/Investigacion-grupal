@@ -1,0 +1,53 @@
+  {"intents":[
+    {
+        "tag": "ahorrar dinero",
+        "patterns": ["Cómo puedo comenzar a ahorrar dinero"],
+        "responses": ["Establece un presupuesto mensual", "Identifica y reduce gastos innecesarios"]
+    },
+    {
+        "tag": "importancia de fondo de emergencia",
+        "patterns": ["¿Cuál es la importancia de tener un fondo de emergencia?"],
+        "responses": ["Proporciona seguridad financiera", "Cubre gastos inesperados sin deuda"]
+    },
+    {
+        "tag": "mejorar puntuación crediticia",
+        "patterns": ["¿Cómo puedo mejorar mi puntuación crediticia?"],
+        "responses": ["Paga tus facturas a tiempo", "Utiliza tu crédito de manera responsable"]
+    },
+    {
+        "tag": "opciones de inversión para principiantes",
+        "patterns": ["¿Cuáles son las opciones de inversión para principiantes?"],
+        "responses": ["Considera fondos indexados", "Invierte en acciones de empresas estables"]
+    },
+    {
+        "tag": "reducir deudas",
+        "patterns": ["¿Cómo puedo reducir mis deudas?"],
+        "responses": ["Prioriza las deudas con tasas de interés altas", "Negocia tasas de interés más bajas si es posible"]
+    },
+    {
+        "tag": "asignar ahorros",
+        "patterns": ["¿Cuánto debo destinar a mis ahorros cada mes?"],
+        "responses": ["Aim for at least 20% of your income", "Adjust based on financial goals and expenses"]
+    },
+    {
+        "tag": "plan de jubilación",
+        "patterns": ["¿Qué es un plan de jubilación y por qué es importante?"],
+        "responses": ["Un plan para asegurar ingresos en la jubilación", "Ofrece tranquilidad financiera en la vejez"]
+    },
+    {
+        "tag": "beneficios de diversificar inversiones",
+        "patterns": ["¿Cuáles son los beneficios de diversificar mis inversiones?"],
+        "responses": ["Reduce el riesgo de pérdida", "Maximiza oportunidades de crecimiento"]
+    },
+    {
+        "tag": "pagar en efectivo vs usar tarjetas de crédito",
+        "patterns": ["¿Es mejor pagar en efectivo o usar tarjetas de crédito?"],
+        "responses": ["Pagar en efectivo puede ayudar a controlar gastos", "Usar tarjetas de crédito con responsabilidad construye historial crediticio"]
+    },
+    {
+        "tag": "ensenar educación financiera a hijos",
+        "patterns": ["¿Cómo puedo enseñar educación financiera a mis hijos?"],
+        "responses": ["Incluye lecciones sobre ahorro y gastos", "Fomenta la responsabilidad financiera desde temprana edad"]
+    }
+ ]
+}
