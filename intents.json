@@ -48,6 +48,306 @@
         "tag": "ensenar educación financiera a hijos",
         "patterns": ["¿Cómo puedo enseñar educación financiera a mis hijos?"],
         "responses": ["Incluye lecciones sobre ahorro y gastos", "Fomenta la responsabilidad financiera desde temprana edad"]
+    },
+    {
+      "tag": "AhorroBasico",
+      "patterns": ["Cómo empezar a ahorrar dinero", "Consejos para ahorrar", "Iniciando un plan de ahorro"],
+      "responses": ["Iniciar un plan de ahorro es crucial. Establece metas, haz un presupuesto y destina un porcentaje de tus ingresos para ahorrar."]
+    },
+    {
+      "tag": "AhorroEmergencias",
+      "patterns": ["Fondo de emergencia", "Cómo crear un fondo para emergencias", "Importancia del ahorro para imprevistos"],
+      "responses": ["Contar con un fondo de emergencia te brinda seguridad financiera. Aprende a construir y mantener un fondo para imprevistos."]
+    },
+    {
+      "tag": "PresupuestoAhorro",
+      "patterns": ["Cómo ahorrar con un presupuesto", "Planificación financiera", "Consejos para ahorrar con un presupuesto"],
+      "responses": ["Elaborar un presupuesto te ayuda a controlar tus gastos. Descubre cómo asignar fondos para el ahorro y mantener un equilibrio financiero."]
+    },
+    {
+      "tag": "AhorroAutomatizado",
+      "patterns": ["Ahorro automático", "Ventajas del ahorro automático", "Cómo configurar ahorro automático"],
+      "responses": ["Automatizar tu ahorro simplifica el proceso. Configura transferencias automáticas para asegurar que una parte de tus ingresos vaya directamente a tus cuentas de ahorro."]
+    },
+    {
+      "tag": "MetasAhorro",
+      "patterns": ["Establecer metas de ahorro", "Cómo lograr metas financieras", "Planificación para alcanzar objetivos de ahorro"],
+      "responses": ["Establecer metas específicas te motiva a ahorrar. Aprende a definir metas financieras realistas y crea un plan para alcanzarlas."]
+    },
+{
+      "tag": "PresupuestoGastosDiarios",
+      "patterns": ["Cómo hacer un presupuesto de gastos diarios", "Planificación de gastos diarios", "Consejos para controlar gastos diarios"],
+      "responses": ["Elaborar un presupuesto específico para tus gastos diarios te permite tener un mayor control financiero. Aprende a planificar y ajustar tus gastos diarios de manera efectiva."]
+    },
+    {
+      "tag": "GastosInnecesarios",
+      "patterns": ["Identificar gastos innecesarios", "Cómo reducir gastos superfluos", "Eliminando gastos que no son esenciales"],
+      "responses": ["Revisar y eliminar gastos innecesarios es clave para mejorar tu situación financiera. Descubre cómo identificar y reducir aquellos gastos que no aportan valor a tu vida."]
+    },
+    {
+      "tag": "AlternativasEconomicas",
+      "patterns": ["Buscar alternativas económicas", "Cómo ahorrar en compras diarias", "Opciones más económicas en la vida cotidiana"],
+      "responses": ["Siempre hay alternativas más económicas disponibles. Explora cómo encontrar opciones asequibles en tus compras diarias y hábitos cotidianos."]
+    },
+    {
+      "tag": "ControlGastosCotidianos",
+      "patterns": ["Estrategias para controlar gastos cotidianos", "Cómo mantener un control diario de los gastos", "Consejos para gastar de manera consciente"],
+      "responses": ["Controlar tus gastos diarios es esencial para mantener un presupuesto equilibrado. Aprende estrategias y consejos prácticos para gastar de manera consciente y responsable."]
+    },
+    {
+      "tag": "AhorroPequeñasAcciones",
+      "patterns": ["Ahorro a través de pequeñas acciones diarias", "Cómo ahorrar en la vida cotidiana", "Consejos para el ahorro diario"],
+      "responses": ["Pequeñas acciones diarias pueden sumar grandes ahorros a largo plazo. Descubre consejos prácticos para ahorrar dinero en tu vida cotidiana."]
+    },
+{
+      "tag": "AhorroTransporte",
+      "patterns": ["Cómo ahorrar en transporte diario", "Evitar gastos en taxi", "Alternativas económicas de transporte"],
+      "responses": ["Ahorra dinero en transporte diario utilizando alternativas económicas como caminar, andar en bicicleta o utilizar el transporte público."]
+    },
+    {
+      "tag": "ComerEnCasa",
+      "patterns": ["Beneficios de comer en casa", "Cómo ahorrar en alimentación diaria", "Cocinar en casa para reducir gastos"],
+      "responses": ["Cocinar en casa no solo es más saludable, sino que también te ayuda a ahorrar dinero al evitar comer fuera de casa con frecuencia."]
+    },
+    {
+      "tag": "AhorroCafeteria",
+      "patterns": ["Reducir gastos en cafetería", "Alternativas a comprar café diariamente", "Cómo hacer café en casa"],
+      "responses": ["Reducir la compra diaria de café en cafeterías puede generar un ahorro significativo. Aprende a preparar tu café en casa y disfruta de un ahorro a largo plazo."]
+    },
+    {
+      "tag": "AhorroAlmuerzoTrabajo",
+      "patterns": ["Estrategias para ahorrar en almuerzos en el trabajo", "Alternativas económicas para comer en el trabajo", "Preparar almuerzos en casa"],
+      "responses": ["Preparar tus almuerzos en casa es una excelente manera de ahorrar dinero durante la jornada laboral. Descubre estrategias y opciones económicas para comer de manera saludable."]
+    },
+    {
+      "tag": "EvitarComprasImpulsivas",
+      "patterns": ["Cómo evitar compras impulsivas", "Consejos para resistir la tentación de comprar", "Planificación para evitar gastos innecesarios"],
+      "responses": ["Evitar compras impulsivas requiere planificación y autodisciplina. Aprende estrategias para resistir la tentación y mantener un enfoque consciente en tus compras."]
+    },
+{
+      "tag": "ResistirComprasImpulsivas",
+      "patterns": ["Cómo resistir compras impulsivas", "Consejos para evitar compras impulsivas", "Controlar impulsos de compra"],
+      "responses": ["Resistir compras impulsivas es crucial para mantener un presupuesto equilibrado. Aprende estrategias efectivas y consejos prácticos para controlar tus impulsos de compra."]
+    },
+    {
+      "tag": "ListaCompraPlanificada",
+      "patterns": ["Ventajas de hacer una lista de compras", "Cómo planificar compras de manera efectiva", "Organización antes de ir de compras"],
+      "responses": ["Hacer una lista de compras te ayuda a mantener el enfoque. Descubre cómo planificar tus compras de manera efectiva para evitar gastos innecesarios."]
+    },
+    {
+      "tag": "EstablecerPresupuesto",
+      "patterns": ["Importancia de establecer un presupuesto", "Cómo fijar límites de gasto", "Seguir un presupuesto para compras"],
+      "responses": ["Establecer un presupuesto es clave para evitar compras impulsivas. Aprende cómo fijar límites de gasto y seguir un presupuesto para mantener el control financiero."]
+    },
+    {
+      "tag": "ReflexionarAntesComprar",
+      "patterns": ["Practicar la reflexión antes de comprar", "Preguntas a hacerse antes de comprar", "Evitar compras impulsivas mediante reflexión"],
+      "responses": ["Reflexionar antes de comprar te ayuda a evaluar la necesidad real del producto. Descubre preguntas clave que puedes hacerte para evitar compras impulsivas."]
+    },
+    {
+      "tag": "EvitarOfertasTentadoras",
+      "patterns": ["Cómo resistir ofertas tentadoras", "Consejos para no ceder a ofertas", "Evaluar la verdadera necesidad antes de comprar en oferta"],
+      "responses": ["Resistir ofertas tentadoras requiere evaluar la verdadera necesidad. Aprende a no ceder a ofertas y a tomar decisiones de compra más conscientes."]
+    },
+{
+      "tag": "AhorroEnergiaElectrica",
+      "patterns": ["Cómo reducir el consumo de energía eléctrica en casa", "Consejos para ahorrar en electricidad", "Eficiencia energética en el hogar"],
+      "responses": ["Reducir el consumo de energía eléctrica no solo ahorra dinero, sino que también es amigable con el medio ambiente. Descubre consejos prácticos para mejorar la eficiencia energética en tu hogar."]
+    },
+    {
+      "tag": "ApagarElectrodomesticos",
+      "patterns": ["Importancia de apagar electrodomésticos", "Cómo evitar gastos innecesarios en electricidad", "Apagar dispositivos cuando no se usan"],
+      "responses": ["Apagar los electrodomésticos cuando no se usan es clave para ahorrar en electricidad. Aprende la importancia de esta práctica y cómo implementarla de manera efectiva."]
+    },
+    {
+      "tag": "AislamientoTermico",
+      "patterns": ["Mejorar el aislamiento térmico en casa", "Cómo reducir gastos de calefacción y refrigeración", "Beneficios del aislamiento en el hogar"],
+      "responses": ["Un buen aislamiento térmico puede reducir significativamente los gastos de calefacción y refrigeración. Descubre cómo mejorar el aislamiento en tu hogar y los beneficios asociados."]
+    },
+    {
+      "tag": "UsoEficienteAgua",
+      "patterns": ["Uso eficiente del agua en casa", "Cómo ahorrar en la factura del agua", "Consejos para reducir el consumo de agua"],
+      "responses": ["Utilizar el agua de manera eficiente no solo ahorra dinero, sino que también contribuye a la conservación del recurso. Aprende estrategias para reducir el consumo de agua en tu hogar."]
+    },
+    {
+      "tag": "AhorroGasDucha",
+      "patterns": ["Cómo reducir el consumo de gas en la ducha", "Consejos para ahorrar en calefacción de agua", "Eficiencia en el uso del gas para duchas"],
+      "responses": ["Reducir el consumo de gas en la ducha es una forma efectiva de ahorrar. Descubre consejos para optimizar el uso de gas en la calefacción de agua y ahorrar en tus facturas."]
+    },
+{
+      "tag": "RegistroGastos",
+      "patterns": ["Cómo llevar un registro efectivo de gastos", "Organizar gastos como en un libro de contabilidad", "Métodos para registrar gastos"],
+      "responses": ["Llevar un registro efectivo de gastos es fundamental para un buen control financiero. Descubre métodos y prácticas para organizar tus gastos como si llevaras un libro de contabilidad."]
+    },
+    {
+      "tag": "CategoriasGastos",
+      "patterns": ["Cómo categorizar tus gastos", "Organizar gastos en categorías", "Importancia de categorizar los gastos"],
+      "responses": ["Categorizar tus gastos te proporciona una visión clara de tus patrones de gasto. Aprende a organizar tus gastos en categorías para un mejor análisis y control financiero."]
+    },
+    {
+      "tag": "PresupuestoLibroContable",
+      "patterns": ["Elaborar un presupuesto como un libro de contabilidad", "Métodos contables para la planificación financiera", "Control financiero a través de un presupuesto"],
+      "responses": ["Elaborar un presupuesto siguiendo principios contables es esencial para un control financiero sólido. Descubre métodos contables para la planificación financiera y el control de gastos."]
+    },
+    {
+      "tag": "AnalisisEstadoCuenta",
+      "patterns": ["Cómo realizar un análisis del estado de cuenta", "Interpretar un estado de cuenta financiero", "Importancia del análisis financiero"],
+      "responses": ["Realizar un análisis del estado de cuenta te proporciona insights valiosos. Aprende a interpretar un estado de cuenta financiero para una mejor comprensión de tus finanzas."]
+    },
+    {
+      "tag": "GestionDeudasContable",
+      "patterns": ["Gestión de deudas como en contabilidad", "Cómo organizar y gestionar deudas", "Estrategias contables para reducir deudas"],
+      "responses": ["Gestionar deudas de manera contable te ayuda a reducir la carga financiera. Descubre estrategias y métodos contables para organizar y gestionar eficientemente tus deudas."]
+    },
+{
+      "tag": "PreparacionDeclaracion",
+      "patterns": ["Cómo preparar la declaración de impuestos", "Pasos para la declaración de impuestos eficiente", "Consejos para la preparación de impuestos"],
+      "responses": ["Preparar la declaración de impuestos de manera adecuada es crucial. Aprende los pasos y consejos para hacer una declaración eficiente y cumplir con tus obligaciones fiscales."]
+    },
+    {
+      "tag": "DocumentacionImpuestos",
+      "patterns": ["Documentación necesaria para la declaración de impuestos", "Qué documentos preparar para impuestos", "Organización de documentos fiscales"],
+      "responses": ["La documentación adecuada simplifica la declaración de impuestos. Descubre qué documentos necesitas y cómo organizarlos para facilitar el proceso de declaración."]
+    },
+    {
+      "tag": "DeduccionesFiscales",
+      "patterns": ["Cómo aprovechar deducciones fiscales", "Consejos para maximizar deducciones en impuestos", "Identificar deducciones elegibles"],
+      "responses": ["Aprovechar deducciones fiscales es una estrategia importante. Aprende consejos para maximizar tus deducciones y reducir tu carga tributaria de manera legal y eficiente."]
+    },
+    {
+      "tag": "PlazosDeclaracion",
+      "patterns": ["Plazos para presentar la declaración de impuestos", "Consejos para evitar multas por declaración tardía", "Calendario de impuestos"],
+      "responses": ["Cumplir con los plazos es esencial para evitar multas. Conoce los plazos para presentar tu declaración de impuestos y cómo evitar sanciones por declarar tarde."]
+    },
+    {
+      "tag": "AsesoramientoProfesional",
+      "patterns": ["Ventajas de buscar asesoramiento profesional en impuestos", "Cuándo contratar a un contador para impuestos", "Importancia de asesoramiento en declaraciones fiscales"],
+      "responses": ["Buscar asesoramiento profesional puede ser beneficioso. Descubre las ventajas de contar con un contador o asesor fiscal para garantizar una declaración de impuestos precisa y eficiente."]
+    }, {
+      "tag": "AhorroJubilacion",
+      "patterns": ["Cómo ahorrar para la jubilación", "Estrategias de ahorro para el retiro", "Planificación financiera para la jubilación"],
+      "responses": ["Planificar y comenzar a ahorrar para la jubilación es esencial. Aprende estrategias efectivas y consejos prácticos para asegurar tu futuro financiero."]
+    },
+    {
+      "tag": "FondosRetiro",
+      "patterns": ["Inversión en fondos de retiro", "Cómo elegir fondos para la jubilación", "Diversificación en planes de retiro"],
+      "responses": ["La elección adecuada de fondos de retiro es clave. Descubre cómo invertir sabiamente y diversificar tu portafolio para asegurar un retiro financiero sólido."]
+    },
+    {
+      "tag": "PlanificacionJubilacion",
+      "patterns": ["Importancia de la planificación de la jubilación", "Pasos para la planificación del retiro", "Metas financieras para la jubilación"],
+      "responses": ["Una planificación sólida es la clave para una jubilación segura. Conoce la importancia de planificar tu retiro, establecer metas financieras y asegurar la estabilidad económica."]
+    },
+    {
+      "tag": "InversionJubilacion",
+      "patterns": ["Inversiones para la jubilación", "Cómo maximizar rendimientos en el retiro", "Gestión de inversiones durante la jubilación"],
+      "responses": ["Invertir sabiamente es crucial para el éxito durante la jubilación. Aprende estrategias de inversión específicas para maximizar tus rendimientos y garantizar un retiro cómodo."]
+    },
+    {
+      "tag": "SeguridadFinanciera",
+      "patterns": ["Cómo asegurar la seguridad financiera en la jubilación", "Seguros para la jubilación", "Gestión de riesgos en el retiro"],
+      "responses": ["Garantizar la seguridad financiera es esencial en la jubilación. Descubre cómo gestionar riesgos, asegurarte con los seguros adecuados y mantener una paz financiera en tu retiro."]
+    }, {
+      "tag": "CategoriasGastos",
+      "patterns": ["Cómo categorizar tus gastos", "Organizar gastos en categorías", "Importancia de categorizar los gastos"],
+      "responses": ["Categorizar tus gastos te proporciona una visión clara de tus patrones de gasto. Aprende a organizar tus gastos en categorías para un mejor análisis y control financiero."]
+    },
+    {
+      "tag": "PresupuestoCategorias",
+      "patterns": ["Cómo crear un presupuesto por categorías", "Planificación financiera por categorías", "Seguimiento de gastos categorizados"],
+      "responses": ["Crear un presupuesto por categorías es una herramienta poderosa. Descubre cómo planificar tu presupuesto, asignar fondos a diferentes categorías y hacer un seguimiento efectivo de tus gastos."]
+    },
+    {
+      "tag": "AnalisisGastosCategoria",
+      "patterns": ["Cómo analizar gastos por categoría", "Identificar áreas de gasto excesivo", "Optimización de gastos en categorías específicas"],
+      "responses": ["Analizar tus gastos por categoría te permite identificar áreas de mejora. Aprende a identificar gastos excesivos, optimizar tus finanzas y lograr un mayor control sobre tus recursos."]
+    },
+    {
+      "tag": "GastosVariablesFijos",
+      "patterns": ["Diferencia entre gastos variables y fijos", "Cómo gestionar gastos variables", "Planificación para gastos fijos"],
+      "responses": ["Comprender la diferencia entre gastos variables y fijos es crucial. Descubre estrategias para gestionar gastos variables, planificar para gastos fijos y mantener un equilibrio financiero."]
+    },
+    {
+      "tag": "AjustePresupuestario",
+      "patterns": ["Cómo ajustar tu presupuesto según las categorías", "Flexibilidad en la planificación financiera", "Revisión y ajuste periódico del presupuesto"],
+      "responses": ["Ajustar tu presupuesto según las categorías es clave para la adaptabilidad financiera. Aprende a ser flexible en tu planificación, revisar y ajustar periódicamente tu presupuesto para mantenerlo efectivo."]
+    },
+{
+      "tag": "GestionDeudasContable",
+      "patterns": ["Gestión de deudas como en contabilidad", "Cómo organizar y gestionar deudas", "Estrategias contables para reducir deudas"],
+      "responses": ["Gestionar deudas de manera contable te ayuda a reducir la carga financiera. Descubre estrategias y métodos contables para organizar y gestionar eficientemente tus deudas."]
+    },
+    {
+      "tag": "ReestructuracionDeudas",
+      "patterns": ["Cómo realizar una reestructuración de deudas", "Negociación con acreedores", "Consejos para reducir la carga de deudas"],
+      "responses": ["La reestructuración de deudas puede ser una estrategia efectiva. Aprende a negociar con tus acreedores, reducir la carga de deudas y recuperar la estabilidad financiera."]
+    },
+    {
+      "tag": "PlanificacionSucesoria",
+      "patterns": ["Importancia de la planificación sucesoria", "Cómo planificar la herencia", "Asesoramiento legal para la sucesión"],
+      "responses": ["La planificación sucesoria es esencial para garantizar la distribución deseada de tus bienes. Descubre la importancia de planificar tu herencia y obtener asesoramiento legal para la sucesión."]
+    },
+    {
+      "tag": "Testamento",
+      "patterns": ["Cómo redactar un testamento", "Importancia del testamento", "Proceso legal para la redacción de un testamento"],
+      "responses": ["Redactar un testamento es un paso crucial en la planificación sucesoria. Aprende la importancia del testamento, cómo redactarlo y el proceso legal asociado."]
+    },
+    {
+      "tag": "GastosSucesion",
+      "patterns": ["Gastos asociados a la sucesión", "Cómo minimizar costos de sucesión", "Planificación financiera para gastos sucesorios"],
+      "responses": ["La sucesión puede implicar gastos. Descubre cómo minimizar los costos asociados, planificar financieramente para los gastos sucesorios y garantizar una transición financiera suave."]
+    },
+{
+      "tag": "NegociacionPrecios",
+      "patterns": ["Cómo negociar precios efectivamente", "Técnicas de negociación en compras", "Consejos para obtener descuentos"],
+      "responses": ["La negociación de precios es una habilidad valiosa. Aprende técnicas efectivas de negociación, consejos para obtener descuentos y cómo maximizar tus ahorros en tus compras."]
+    },
+    {
+      "tag": "DescuentosOfertas",
+      "patterns": ["Cómo aprovechar descuentos y ofertas", "Buscar ofertas en compras", "Consejos para comprar con descuentos"],
+      "responses": ["Aprovechar descuentos y ofertas puede ahorrarte dinero. Descubre estrategias para buscar ofertas, aprovechar descuentos y maximizar tus ahorros al hacer compras."]
+    },
+    {
+      "tag": "ComprasInteligentes",
+      "patterns": ["Cómo hacer compras inteligentes", "Estrategias para decisiones de compra", "Consejos para evitar compras impulsivas"],
+      "responses": ["Realizar compras inteligentes es clave para un gasto eficiente. Aprende estrategias para tomar decisiones de compra informadas y consejos para evitar compras impulsivas."]
+    },
+    {
+      "tag": "ComparacionProductos",
+      "patterns": ["Importancia de comparar productos antes de comprar", "Cómo realizar comparaciones de productos", "Consejos para tomar decisiones informadas de compra"],
+      "responses": ["Comparar productos antes de comprar es esencial. Descubre la importancia de la comparación, cómo realizar evaluaciones y consejos para tomar decisiones informadas de compra."]
+    },
+    {
+      "tag": "EstrategiasAhorroCompras",
+      "patterns": ["Estrategias efectivas para ahorrar en compras", "Planificación de compras para ahorro", "Consejos para minimizar gastos en tus compras"],
+      "responses": ["Desarrollar estrategias efectivas puede ahorrarte dinero en tus compras. Aprende a planificar para el ahorro, implementar estrategias efectivas y minimizar gastos en tus compras."]
+    },
+{
+      "tag": "CategoriasGastos",
+      "patterns": ["categorizar gastos", "organizar gastos", "presupuesto categorías", "gastos variables y fijos"],
+      "responses": ["Categorizar tus gastos te proporciona una visión clara de tus patrones de gasto. Aprende a organizar tus gastos para un mejor control financiero."]
+    },
+    {
+      "tag": "PresupuestoCategorias",
+      "patterns": ["crear presupuesto", "planificación financiera", "seguimiento de gastos", "asignar fondos a categorías"],
+      "responses": ["Crear un presupuesto por categorías es una herramienta poderosa. Descubre cómo asignar fondos y hacer un seguimiento efectivo de tus gastos."]
+    },
+    {
+      "tag": "AnalisisGastosCategoria",
+      "patterns": ["analizar gastos", "identificar áreas de gasto excesivo", "optimización de gastos"],
+      "responses": ["Analizar tus gastos por categoría te permite identificar áreas de mejora. Aprende a optimizar tus finanzas para un mayor control."]
+    },
+    {
+      "tag": "GastosVariablesFijos",
+      "patterns": ["diferencia gastos variables y fijos", "gestión gastos variables", "planificación gastos fijos"],
+      "responses": ["Comprender la diferencia entre gastos variables y fijos es crucial. Descubre estrategias para gestionarlos y mantener un equilibrio financiero."]
+    },
+    {
+      "tag": "AjustePresupuestario",
+      "patterns": ["ajustar presupuesto", "flexibilidad financiera", "revisión y ajuste presupuesto"],
+      "responses": ["Ajustar tu presupuesto es clave para la adaptabilidad financiera. Aprende a ser flexible y ajustar tu presupuesto periódicamente."]
     }
+
+    
  ]
 }
